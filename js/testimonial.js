@@ -113,6 +113,20 @@ const testimonialData = [
 			"https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
 		rating: 3,
 	},
+	{
+		author: "Muhammad Reza Fadilah",
+		quote: "Si paling keren",
+		image:
+			"https://get.pxhere.com/photo/attractive-beautiful-beautiful-girl-beauty-blurred-background-brazilian-woman-casual-close-up-countryside-daylight-daytime-eyes-eyewear-face-facial-expression-fashion-fashionable-female-girl-grass-hair-hairstyle-hands-human-lady-landscape-lips-looking-model-nature-outdoors-outside-people-person-photoshoot-pose-posing-pretty-rural-skin-wear-woman-young-youth-1572135.jpg",
+		rating: 3,
+	},
+	{
+		author: "Muhammad Reza Fadilah",
+		quote: "Si paling keren",
+		image:
+			"https://c.pxhere.com/images/9d/ea/2510ba77b469beb7c2bcb03738ea-1419064.jpg!d",
+		rating: 2,
+	},
 ];
 
 function allTestimonials() {
